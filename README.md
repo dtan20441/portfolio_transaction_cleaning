@@ -1,9 +1,9 @@
 # Cleaning dirty financial transaction data using Python
 ## Overview
-This portfolio the cleaning of dirty financial transaction data from a dummy company where each row represents a transaction made by the company using Python.   
-The original dataset can be downloaded [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/dirty_financial_transactions.csv).  
-The cleaned dataset can be downloaded [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/cleaned_financial_transactions.csv).  
-The jupyter notebook containing all the code can be viewed [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/Financial%20cleaning.ipynb).  
+This portfolio the cleaning of dirty financial transaction data from a dummy company where each row represents a transaction made by the company using Python.     
+The original dataset can be downloaded [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/dirty_financial_transactions.csv).    
+The cleaned dataset can be downloaded [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/cleaned_financial_transactions.csv).    
+The jupyter notebook containing all the code can be viewed [here](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/Financial%20cleaning.ipynb).    
 
 Here is a snapshot of the original dataset: ![dirty dataset snapshot](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/Screenshots/dirty_financial_transaction_snapshot.png).  
 Here is a snapshot after it has been cleaned: ![cleaned dataset snapshot](https://github.com/dtan20441/portfolio_transaction_cleaning/blob/main/Screenshots/clean_financial_data.png).  
