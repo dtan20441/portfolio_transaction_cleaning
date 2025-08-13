@@ -32,4 +32,5 @@ The data quality issues present in the dataset:
 
 ## Limitations
 - Difficult to determine what to do with missing values without context from other departments, e.g. price for products at the time of purchase.
-- Outliers in Quantity were removed based on statistics but they could have been rare and valid. 
+- Outliers in Quantity were removed based on statistics but they could have been rare and valid.
+- Negative values were assumed to be positive because of data entry errors and, Price and Quantity are presumably positive. However, without business context, these negatives could have represented valid scenarios.
